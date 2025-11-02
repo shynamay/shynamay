@@ -1,6 +1,6 @@
 <!-- 🎀 PINK CAT-THEMED GITHUB PROFILE README 🎀 -->
 
-<h1 align="center">🐱🌸 Hi there, I’m <span style="color:#ffb6c1;">[Sheena]</span> 🌸🐱</h1>
+<h1 align="center">🐱🌸 Hi there, I’m <span style="color:#ffb6c1;">Sheena</span> 🌸🐱</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="cat typing">

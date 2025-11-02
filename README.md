@@ -61,9 +61,9 @@
 
 ### 🐾 Random Cat Mood  
 <p align="center">
-  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="180" height="180" style="border-radius:20px; border:2px solid #ffb6c1;" alt="happy dancing cat">
   <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="180" height="180" style="border-radius:20px; border:2px solid #ffb6c1;" alt="sleepy cat">
   <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="180" height="180" style="border-radius:20px; border:2px solid #ffb6c1;" alt="dancing cat">
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180" height="180" style="border-radius:20px; border:2px solid #ffb6c1;" alt="waving cat">
 </p>
 
 ---

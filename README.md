@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="mailto:shnmpader@gmail.com"><img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sheena-mae-pader-b1633a359/"><img src="https://img.shields.io/badge/LinkedIn-ff9eb8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sheena-mae-pader-b1633a359/"><img src="https://img.shields.io/badge/LinkedIn-ff9eb8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   <a href="https://www.instagram.com/siennamie/"><img src="https://img.shields.io/badge/Instagram-fcb5b5?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.facebook.com/siennamiee"><img src="https://img.shields.io/badge/Facebook-ffb6c1?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://discord.com/users/1024252346894655488"><img src="https://img.shields.io/badge/Discord-ff9eb8?style=for-the-badge&logo=discord&logoColor=white"></a>

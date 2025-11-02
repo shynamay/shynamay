@@ -50,8 +50,8 @@
 ### 🩷 Let’s Connect  
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-ff9eb8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:shnmpader@gmail.com"><img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sheena-mae-pader-b1633a359/"><img src="https://img.shields.io/badge/LinkedIn-ff9eb8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://yourportfolio.link"><img src="https://img.shields.io/badge/Portfolio-fcb5b5?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 </p>
 

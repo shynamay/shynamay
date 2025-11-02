@@ -1,6 +1,6 @@
 <!-- 🎀 PINK CAT-THEMED GITHUB PROFILE README 🎀 -->
 
-<h1 align="center">🐱🌸 Hi there, I’m <span style="color:#ffb6c1;">[Your Name]</span> 🌸🐱</h1>
+<h1 align="center">🐱🌸 Hi there, I’m <span style="color:#ffb6c1;">[Sheena]</span> 🌸🐱</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="cat typing">
@@ -15,8 +15,8 @@
 ### 🐾 About Me  
 
 🌸 I’m an **IT student** who loves creating cute yet functional digital experiences!  
-🐾 I’m passionate about **software quality**, **user-friendly design**, and **aesthetics**.  
-☕ I spend my days testing, designing, and taking cat naps in between.  
+🐾 I’m passionate about **software quality** and **user-friendly design**.  
+☕ I spend my days testing, designing, reading books and taking cat naps in between.  
 💻 Currently learning how to make apps *purr-fect* for everyone.  
 
 ---
@@ -25,9 +25,9 @@
 
 | Category | Tools |
 |-----------|-------|
-| 🧩 QA Tools | Jira · TestRail · Postman |
-| 🎀 Design | Figma · Adobe XD |
-| 🌐 Web Basics | HTML · CSS · Bootstrap |
+| 🧩 QA Tools | Jira · TestLink · Postman |
+| 🎀 Design | Figma · Canva · Notion|
+| 🌐 Web Basics | HTML · CSS |
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-ffb6c1?style=for-the-badge&logo=figma&logoColor=white"/>

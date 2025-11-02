@@ -41,7 +41,7 @@
 
 ### 🐱 My GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pader&show_icons=true&theme=rose_pine&title_color=ff9eb8&icon_color=ffb6c1&text_color=fcdedf&bg_color=2b1b2e" alt="GitHub stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shynamay&show_icons=true&theme=rose_pine&title_color=ff9eb8&icon_color=ffb6c1&text_color=fcdedf&bg_color=2b1b2e" alt="GitHub stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=rose_pine&background=2b1b2e&ring=ffb6c1&fire=ffb6c1&currStreakLabel=ffb6c1" width="400"/>
 </p>
 

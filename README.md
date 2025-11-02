@@ -3,7 +3,7 @@
 <h1 align="center">🐱🌸 Hi there, I’m <span style="color:#ffb6c1;">Sheena</span> 🌸🐱</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="cat typing">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" height="180" style="border-radius:20px; border:2px solid #ffb6c1;" alt="cat typing">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 🌸 I’m an **IT student** who loves creating cute yet functional digital experiences!  
 🐾 I’m passionate about **software quality** and **user-friendly design**.  
-☕ I spend my days testing, designing, reading books and taking cat naps in between.  
+☕ I spend my days testing, designing, reading books, and taking cat naps in between.  
 💻 Currently learning how to make apps *purr-fect* for everyone.  
 
 ---
@@ -26,7 +26,7 @@
 | Category | Tools |
 |-----------|-------|
 | 🧩 QA Tools | Jira · TestLink · Postman |
-| 🎀 Design | Figma · Canva · Notion|
+| 🎀 Design | Figma · Canva · Notion |
 | 🌐 Web Basics | HTML · CSS |
 
 <p align="center">
@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="mailto:shnmpader@gmail.com"><img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sheena-mae-pader-b1633a359/"><img src="https://img.shields.io/badge/LinkedIn-ff9eb8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/sheena-mae-pader-b1633a359/"><img src="https://img.shields.io/badge/LinkedIn-ff9eb8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/siennamie/"><img src="https://img.shields.io/badge/Instagram-fcb5b5?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.facebook.com/siennamiee"><img src="https://img.shields.io/badge/Facebook-ffb6c1?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://discord.com/users/1024252346894655488"><img src="https://img.shields.io/badge/Discord-ff9eb8?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -61,9 +61,9 @@
 
 ### 🐾 Random Cat Mood  
 <p align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180" alt="cute cat">
-  <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="180" alt="sleepy cat">
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="180" alt="dancing cat">
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180" height="180" style="border-radius:20px; border:2px solid #ffb6c1;" alt="cute cat">
+  <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="180" height="180" style="border-radius:20px; border:2px solid #ffb6c1;" alt="sleepy cat">
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="180" height="180" style="border-radius:20px; border:2px solid #ffb6c1;" alt="dancing cat">
 </p>
 
 ---
@@ -71,6 +71,5 @@
 > 🩰 *“Stay pawsitive, test gently, and design with love.”* 🌸  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" width="100" alt="cat waving">
+  <img src="https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" width="180" height="180" style="border-radius:20px; border:2px solid #ffb6c1;" alt="cat waving">
 </p>
-
